@@ -1,0 +1,4 @@
+Invoking command in '/home/flow/rostut_ws/build/my_bot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/flow/rostut_ws/build/my_bot_bringup -- -j12 -l12
+Invoked command in '/home/flow/rostut_ws/build/my_bot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/flow/rostut_ws/build/my_bot_bringup -- -j12 -l12
+Invoking command in '/home/flow/rostut_ws/build/my_bot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/flow/rostut_ws/build/my_bot_bringup
+Invoked command in '/home/flow/rostut_ws/build/my_bot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/flow/rostut_ws/build/my_bot_bringup
